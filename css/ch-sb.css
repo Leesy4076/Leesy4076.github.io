@@ -1,8 +1,9 @@
-<<<<<<< HEAD
 html {
 	font-family: 'Noto Sans TC', sans-serif;
-=======
-html {
+}
+h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
->>>>>>> b955cd5ddb18bcb58ce5d6f5231a7f9e656bad9e
+	font-size:1.2rem;
+	text-transform:nome;
+	letter-spacing:-0.05rem;
 }
