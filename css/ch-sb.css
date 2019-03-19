@@ -8,7 +8,7 @@ h1,h2,h3,h4,h5,h6{
 	
 }
 bg-primary{
-	background-color:#00bd97 important;
+	background-color:#00bd97! important;
 	background-image:url("https://www.transparenttextures.com/patterns/60-lines.png");
 }
 
